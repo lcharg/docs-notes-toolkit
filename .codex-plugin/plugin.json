@@ -1,0 +1,6 @@
+{
+  "name": "docs-notes",
+  "version": "1.0.0",
+  "description": "Four documentation and decision-note workflows backed by local Node lifecycle gates.",
+  "skills": "./skills/"
+}

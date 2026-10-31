@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.zip
+.DS_Store
+.docs-notes-before*.json
+/workflow-report.json

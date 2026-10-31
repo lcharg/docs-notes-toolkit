@@ -1,0 +1,6 @@
+{
+  "name": "docs-notes",
+  "version": "1.0.0",
+  "description": "Initialize, update, curate and promote project documentation with executable lifecycle gates.",
+  "author": { "name": "Docs Notes Toolkit contributors" }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "phase": "update",
+  "decisions": [
+    {
+      "path": "docs/example.md",
+      "action": "updated",
+      "documents": ["docs/example.md"],
+      "reason": "Brief explanation of the change and its evidence."
+    }
+  ],
+  "promotions": []
+}

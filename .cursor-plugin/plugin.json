@@ -1,0 +1,6 @@
+{
+  "name": "docs-notes",
+  "version": "1.0.0",
+  "description": "Documentation and decision-note lifecycle skills with executable checks.",
+  "author": { "name": "Docs Notes Toolkit contributors" }
+}
